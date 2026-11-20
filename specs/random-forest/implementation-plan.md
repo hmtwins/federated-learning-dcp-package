@@ -4,7 +4,7 @@
 |---|---|
 | Owner | Nate, Mohsan, Ivan |
 | Status | Draft |
-| Last updated | 2025-02-14 |
+| Last updated | 2026-11-20 |
 | Related | [summary.md](summary.md), [test-plan.md](test-plan.md), [shared implementation plan](../shared/implementation-plan.md) |
 
 ## Architecture
