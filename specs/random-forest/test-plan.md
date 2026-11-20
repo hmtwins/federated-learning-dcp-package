@@ -4,7 +4,7 @@
 |---|---|
 | Owner | Nate, Mohsan, Ivan |
 | Status | Draft |
-| Last updated | 2025-02-14 |
+| Last updated | 2025-11-20 |
 | Related | [summary.md](summary.md), [implementation-plan.md](implementation-plan.md), [shared test plan](../shared/test-plan.md) |
 
 > Each test should reference the requirement IDs it covers.
